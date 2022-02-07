@@ -1,5 +1,11 @@
 # 6.06 Cryptography Basics
 
-1. Explain briefly how the following substitution ciphers can be broken: Caesar cipher, Simple substitution cipher, Vigenere cipher.
+1. Complete the following table, describe the encryption and decryption process for each cipher, and how each can be broken.
 
-2. Define symmetric encryption.
+| Cipher              | Encryption process | Decryption process | How it can be broken |
+|---------------------|--------------------|--------------------|----------------------|
+| Caesar              |                    |                    |                      |
+| Simple substitution |                    |                    |                      |
+| Vigenere            |                    |                    |                      |
+
+2. Explain why the benefits of symmetric ciphers are negated by the issue of key exchange.

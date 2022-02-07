@@ -8,3 +8,5 @@
 Answer
 
 4. (POGIL Activity 2) Security/Privacy. As the packets are being transmitted through the network, can people other than the sender and receiver read the messages? What methods can we use to protect the message?
+
+5. What is the primary benefit of making a computer system fault-tolerant?
